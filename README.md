@@ -25,12 +25,6 @@ User redirected to the result page after submitting form.
 ![Screenshot (101)](https://github.com/Jatiinagarwal/Campus-Placement-Prediction/blob/main/scrennshots/Screenshot2.png)
 
 
-
-## Website Link:
-
-https://placement-prediction-18gm.onrender.com/
-
-
 ## Usage:
 Steps:
 1. Clone Project
@@ -45,6 +39,6 @@ pip install -r requirements.txt
 ```
 python app.py
 ```
-## Contributors
+## Contributor
 - <a href="https://github.com/Jatiinagarwal">Jatin Aggarwal</a>
 
