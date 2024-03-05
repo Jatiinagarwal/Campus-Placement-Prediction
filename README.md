@@ -1,4 +1,4 @@
-<h3 align="center">Campius Placement Prediction Web Application</h3>
+<h3 align="center">Campus Placement Prediction Web Application</h3>
 
 ---
 ## Overview:
