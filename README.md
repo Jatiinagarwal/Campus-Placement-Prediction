@@ -18,11 +18,11 @@
 ## Screenshots:
 ### Home page:
 User have to fill this form.
-![Screenshot (99)](https://github.com/Avi8010/Placement_Predictor/assets/124759114/61855759-9501-4d6e-977f-72fcb0951737)
+![Screenshot (99)](https://github.com/Jatiinagarwal/Campus-Placement-Prediction/blob/main/scrennshots/Screenshot1.png)
 
 ### Result Page:
 User redirected to the result page after submitting form.
-![Screenshot (101)](https://github.com/Avi8010/Placement_Predictor/assets/124759114/efebf129-17f4-40d5-9829-7cefee5ed14c)
+![Screenshot (101)](https://github.com/Jatiinagarwal/Campus-Placement-Prediction/blob/main/scrennshots/Screenshot2.png)
 
 
 
@@ -35,7 +35,7 @@ https://placement-prediction-18gm.onrender.com/
 Steps:
 1. Clone Project
 ```
-git clone https://github.com/akshaykoganur/placement_prediction.git
+git clone https://github.com/Jatiinagarwal/Campus-Placement-Prediction.git
 ```
 2. Installing dependancies
 ```
@@ -46,5 +46,5 @@ pip install -r requirements.txt
 python app.py
 ```
 ## Contributors
-- <a href="https://github.com/akshaykoganur">Akshay Koganur</a>
-- <a href="https://github.com/Avi8010">Avinash Maharnavar</a>
+- <a href="https://github.com/Jatiinagarwal">Jatin Aggarwal</a>
+
